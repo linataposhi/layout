@@ -1,0 +1,33 @@
+.header, .hero, .body, .footer{
+background-color: lightgrey;
+margin-bottom: 10px;
+}
+.box{
+	margin: 10px 0;
+	min-height: 80px;
+	background-color: purple;
+	font-size:30px ;
+	color: white;
+	text-align: center;
+}
+.red{
+	background-color: lightskyblue;
+}
+.five{
+	background-color: blueviolet;
+}
+.box2{
+	width: 200px;
+	height: 200px;
+	background-color: steelblue;
+}
+.d-flex{
+	margin:10px 0 ;
+}
+.box3{
+	background-color: lightgrey;
+	border: 1px solid black;
+}
+.mh-100{
+	min-height: 100px;
+}
